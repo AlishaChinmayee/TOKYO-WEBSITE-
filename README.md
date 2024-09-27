@@ -1,1 +1,2 @@
 # tokyo
+This project is a comprehensive travel planning website built using HTML, CSS, and JavaScript. It allows users to create personalized itineraries for tokyo, explore tourist attractions, discover nightlife, get a spring guide, and learn about local food delicacies. Additionally, the platform offers features like restaurant reservations and flight bookings, making it a one-stop solution for planning an entire trip with ease and convenience.
